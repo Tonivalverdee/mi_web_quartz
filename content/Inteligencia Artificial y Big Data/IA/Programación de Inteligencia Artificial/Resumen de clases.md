@@ -1,0 +1,2 @@
+## Primer día de clase
+Hemos visto lo que daremos en este curso, la presentación de los temas, todos me parecen muy interesantes, a priori, en breves daremos [[CSharp]], a través del cuál podremos desarrollar aplicaciones, para más información entrar dentro de C#.

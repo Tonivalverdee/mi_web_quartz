@@ -1,0 +1,3 @@
+# C# 
+
+Con C# Podremos desarrollar aplicaciones web, aplicaciones de escritorio, o aplicaciones móvil, vamos a empezar desde más abajo para ir poco a poco escalando, empezamos por esto, ya que así cuando lleguemos a niveles más alto con la programación y entrenamiento de inteligencia artificial no nos quedaremos atrás los que no hayamos tocado ese lenguaje de programación, también lo damos, ya que en DAM y DAW, se dan principalmente otros leguajes, como pueden ser Java y Python, de esta forma tienen más lenguajes de programación aprendidos, yo tengo conocimientos básicos/medios de Python, por lo que tengo ganas de dar C#
