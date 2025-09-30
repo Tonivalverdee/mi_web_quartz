@@ -1,5 +1,3 @@
 ---
-title: HOLA
+title: Antonio Valverde soto
 ---
-
-Esto es una prueba, más adelante publicaré cosas de utilidad.
